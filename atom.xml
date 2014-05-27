@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[郭若斌的博客]]></title>
   <link href="http://robinguo.github.io/atom.xml" rel="self"/>
   <link href="http://robinguo.github.io/"/>
-  <updated>2014-05-27T18:39:13+08:00</updated>
+  <updated>2014-05-27T19:54:04+08:00</updated>
   <id>http://robinguo.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[郭若斌]]></name>
+    <email><![CDATA[robin.guo.rg@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
