@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://robinguo.github.io
-title: My Octopress Blog
+title: 郭若斌的博客
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: 郭若斌
 simple_search: https://www.google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: robin.guo.rg@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
