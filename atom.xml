@@ -4,7 +4,7 @@
   <title><![CDATA[rguo]]></title>
   <link href="http://robinguo.github.io/atom.xml" rel="self"/>
   <link href="http://robinguo.github.io/"/>
-  <updated>2014-05-27T20:55:40+08:00</updated>
+  <updated>2014-07-11T17:59:21+08:00</updated>
   <id>http://robinguo.github.io/</id>
   <author>
     <name><![CDATA[郭若斌]]></name>
@@ -12,5 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[WWDC 2014]]></title>
+    <link href="http://robinguo.github.io/blog/2014/07/11/wwdc-2014/"/>
+    <updated>2014-07-11T17:58:10+08:00</updated>
+    <id>http://robinguo.github.io/blog/2014/07/11/wwdc-2014</id>
+    <content type="html"><![CDATA[<p>作为一个曾经的iOS如今的Android用户，看了WWDC 2014的Keynote之后居然又兴奋地想入手一台iPhone了。</p>
+
+<p>我虽然一直不认为自己是果粉，但是购买过的苹果设备也不可谓不多了。之前也有半夜看苹果新产品发布会和跑去排队买首发新品的经验，但这次WWDC 2014的Keynote给我留下的影响极其深刻。也许以前更多的是作为普通用户，对新硬件、新软件、新服务看个新鲜。而现在，多少会从产品的设计、规划、策略角度考虑这些新事物。对此，略感欣慰。</p>
+
+<p>Continuity自然是前半部分让人惊艳的主题。从此，Mac和iOS设备之间获得了跨平台的一致性体验。在Mac上打电话，在Mac上创建WiFi热点，在iOS设备上完成Mac尚未完成的操作（邮件、iWork、浏览器），虽说其他的服务或者第三方的工具也能实现，但是感觉苹果又把这件事情做到了极致。</p>
+
+<p>iCloud Drive的策略是我一直很欣赏的。在开山鼻祖Dropbox获得了口碑和众多应用集成，Google Drive依靠自己的Docs的基础以及价格优势发力，以及各种各样的网盘应用铺天盖地的时候。iCloud的思路清晰可见，首先基于iOS平台解决用户痛点（主要是通讯录同步），然后扩展第三方应用的集成（也包括Mac和iOS系统的Keychain），最后才提供自由的文件同步功能。</p>
+
+<p>Swift，HomeKit，HealthKit，CloudKit每一个都可以说是重量级的。其中HomeKit打通了智能家和iOS平台的连接，HealthKit意在获取更多个人的数据，CloudKit是苹果的云计算平台（感觉和iCloud的策略如出一辙，依靠自身的平台逐步拓展）。</p>
+
+<p>当然，苹果的战略是否成功的关键还是iOS平台。这一点，要看今年秋天iPhone 6的了。</p>
+]]></content>
+  </entry>
   
 </feed>
