@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://robinguo.github.io/sitemap.xml 
+Sitemap: http://blog.guorob.in/sitemap.xml 

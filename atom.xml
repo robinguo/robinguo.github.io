@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[rguo]]></title>
-  <link href="http://robinguo.github.io/atom.xml" rel="self"/>
-  <link href="http://robinguo.github.io/"/>
-  <updated>2014-07-26T13:19:27+08:00</updated>
-  <id>http://robinguo.github.io/</id>
+  <link href="http://blog.guorob.in/atom.xml" rel="self"/>
+  <link href="http://blog.guorob.in/"/>
+  <updated>2014-07-26T13:22:38+08:00</updated>
+  <id>http://blog.guorob.in/</id>
   <author>
     <name><![CDATA[郭若斌]]></name>
     <email><![CDATA[robin.guo.rg@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[产品经理的数据分析能力]]></title>
-    <link href="http://robinguo.github.io/blog/2014/07/21/chan-pin-jing-li-de-shu-ju-fen-xi-neng-li/"/>
+    <link href="http://blog.guorob.in/blog/2014/07/21/chan-pin-jing-li-de-shu-ju-fen-xi-neng-li/"/>
     <updated>2014-07-21T21:33:05+08:00</updated>
-    <id>http://robinguo.github.io/blog/2014/07/21/chan-pin-jing-li-de-shu-ju-fen-xi-neng-li</id>
+    <id>http://blog.guorob.in/blog/2014/07/21/chan-pin-jing-li-de-shu-ju-fen-xi-neng-li</id>
     <content type="html"><![CDATA[<p>刚做完给新入职的产品新人关于数据分析的培训，培训的内容主要是一些分析工具的使用上，目的是为了让这些新人能够尽快的开始看一些产品相关的数据。</p>
 
 <p>回忆起这些年自己的工作经历，始终在数据路线上游走。第一份工作是Business Objects的产品研发，Business Objects是一款BI前端分析工具。作为BI分析工具的研发人员，其实是不需要懂得什么BI应用方面的东西的。接着，做了Business Objects的实施顾问，这个逐渐开始接触到一些用户实际的数据需求，但仍然是停留在工具如何使用的层面给与客户支持。再后来，进入互联网企业的BI部门，密集地接触各种需求，也实际地融入了业务场景，可依然是隔靴搔痒。直到近两年，开始自己作为业务人员和产品经理分析自己的数据。可以说，是完整地走完了整个从技术到业务的进化历程。经历了这个过程，现在的感觉是工具的使用虽然是必不可少的“硬技能”，但是其他的一些“软技能”显得更为重要。</p>
@@ -56,9 +56,9 @@
   
   <entry>
     <title type="html"><![CDATA[WWDC 2014]]></title>
-    <link href="http://robinguo.github.io/blog/2014/07/11/wwdc-2014/"/>
+    <link href="http://blog.guorob.in/blog/2014/07/11/wwdc-2014/"/>
     <updated>2014-07-11T17:58:10+08:00</updated>
-    <id>http://robinguo.github.io/blog/2014/07/11/wwdc-2014</id>
+    <id>http://blog.guorob.in/blog/2014/07/11/wwdc-2014</id>
     <content type="html"><![CDATA[<p>作为一个曾经的iOS如今的Android用户，看了WWDC 2014的Keynote之后居然又兴奋地想入手一台iPhone了。</p>
 
 <p>我虽然一直不认为自己是果粉，但是购买过的苹果设备也不可谓不多了。之前也有半夜看苹果新产品发布会和跑去排队买首发新品的经验，但这次WWDC 2014的Keynote给我留下的影响极其深刻。也许以前更多的是作为普通用户，对新硬件、新软件、新服务看个新鲜。而现在，多少会从产品的设计、规划、策略角度考虑这些新事物。对此，略感欣慰。</p>
