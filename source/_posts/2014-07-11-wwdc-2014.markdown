@@ -4,6 +4,8 @@ title: "WWDC 2014"
 date: 2014-07-11 17:58:10 +0800
 comments: true
 categories: 
+keywords: WWDC, iOS, iPhone, iCloud, 产品策略
+description: 
 ---
 
 作为一个曾经的iOS如今的Android用户，看了WWDC 2014的Keynote之后居然又兴奋地想入手一台iPhone了。
