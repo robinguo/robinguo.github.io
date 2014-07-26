@@ -1,13 +1,10 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
-
-url: http://robinguo.github.io
-title: 郭若斌的博客
+# http://robinguo.github.io
+title: rguo
 subtitle: A blogging framework for hackers.
 author: 郭若斌
 simple_search: https://www.google.com/search
 description:
+url: http://blog.guorob.in
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -93,8 +90,12 @@ delicious_count: 3
 disqus_short_name:
 disqus_show_comment_count: false
 
+# Duoshuo Comments
+duoshuo_comments: true
+duoshuo_short_name: blogguorobin
+
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id:	UA-24797743-3
 
 # Facebook Like
 facebook_like: false
