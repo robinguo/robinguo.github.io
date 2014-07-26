@@ -4,7 +4,7 @@ title: "产品经理的数据分析能力"
 date: 2014-07-21 21:33:05 +0800
 comments: true
 categories: 
-keywords: 数据分析，产品经理，数据驱动，分析目的，量化，统计口径，数据验证
+keywords: 数据分析,产品经理,数据驱动,分析目的,量化,统计口径,数据验证
 description:
 ---
 
